@@ -1,5 +1,6 @@
 {
     "python.analysis.typeCheckingMode": "basic",
     "ecl.launchConfiguration": "not found",
-    "ecl.targetCluster": {}
+    "ecl.targetCluster": {},
+    "workbench.settings.editor": "json"
 }
