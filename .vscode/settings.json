@@ -2,5 +2,13 @@
     "python.analysis.typeCheckingMode": "basic",
     "ecl.launchConfiguration": "not found",
     "ecl.targetCluster": {},
-    "workbench.settings.editor": "json"
+    "workbench.settings.editor": "json",
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+    "--max-line-length",
+    "120",
+    "--experimental"
+]
+    // "editor.find.autoFindInSelection": "always"
+    
 }
